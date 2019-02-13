@@ -1,0 +1,18 @@
+.footer {
+  background: 
+  rgb(55, 0, 255);
+  height: 50px;
+  position: relative;
+  color: white;
+  text-align: center;
+}
+
+.footer > .bottom {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background:rgb(60, 0, 255);
+  padding: 8px;
+  font-weight: 600;
+}
